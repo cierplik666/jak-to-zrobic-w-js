@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node app.js",
     "test": "protractor excercsises/1_introduction/conf.js",
-    "preinstall": "npm install -g protractor && webdriver-manager update"
+    "preinstall": "webdriver-manager update"
   },
   "repository": {
     "type": "git",
